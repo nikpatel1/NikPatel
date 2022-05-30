@@ -5,9 +5,9 @@
       "name": "",
       "imgurl": "",
       "playurl": "",
-      "admob_interstitial":"/21952429235,22678886094/WOXXIN_2_UNIVERSALDVDPLAYERREMOTES_INTERSTITIAL",
-      "admob_native":"/21952429235,22678886094/WOXXIN_2_UNIVERSALDVDPLAYERREMOTES_NATIVE",
-      "admob_banner":"/21952429235,22678886094/WOXXIN_2_UNIVERSALDVDPLAYERREMOTES_BANNER"
+      "admob_interstitial":"ca-app-pub-3940256099942544/1033173712",
+      "admob_native":"ca-app-pub-3940256099942544/2247696110",
+      "admob_banner":"ca-app-pub-3940256099942544/6300978111"
 
 }
 ]
