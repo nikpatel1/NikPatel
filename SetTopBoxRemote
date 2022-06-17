@@ -5,9 +5,9 @@
       "name": "",
       "imgurl": "",
       "playurl": "",
-      "admob_interstitial":"/21952429235,22709505437/TTS_WOXXIN_2_UniversalSetTopBoxRemoteSTB_INTERSTITIAL",
-      "admob_native":"/21952429235,22709505437/TTS_WOXXIN_2_UniversalSetTopBoxRemoteSTB_NATIVE",
-      "admob_banner":"/21952429235,22709505437/TTS_WOXXIN_2_UniversalSetTopBoxRemoteSTB_BANNER"
+      "admob_interstitial":"ca-app-pub-9377286514841552/8655290610",
+      "admob_native":"ca-app-pub-9377286514841552/8306122049",
+      "admob_banner":"ca-app-pub-9377286514841552/9619203710"
 
 }
 ]
